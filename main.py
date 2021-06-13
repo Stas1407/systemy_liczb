@@ -28,3 +28,6 @@ print("dec: ", number)
 print("hex: ", dec_to_hex(number))
 print("oct: ", dec_to_oct(number))
 print("bin: ", dec_to_binary(number))
+
+print("")
+input("Press enter to exit. ")
